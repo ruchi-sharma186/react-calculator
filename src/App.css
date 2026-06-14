@@ -1,6 +1,6 @@
 .container{
   width: 400px;
-  background-color: rgb(161, 199, 227);
+  background-color: rgb(193, 153, 178);
   margin: auto;
   text-align: center;
   padding: 12px;
@@ -21,7 +21,7 @@
   margin: 5px;
   border: none;
   font-size: 20px;
-  background-color:rgb(205, 212, 216) ;
+  background-color:rgb(164, 173, 179)  ;
   border-radius: 4px;
   cursor: pointer;
 }
